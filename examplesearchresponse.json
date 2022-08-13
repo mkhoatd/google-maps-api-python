@@ -1,0 +1,965 @@
+{
+  'html_attributions': [],
+  'next_page_token': 'AeJbb3ctu-Ygrfm2xPMRx0UB0mukhV181oe39XG3rpFDr23WN5vfOLQtjnMPj5BUCI6QrVicjoJQLfycWo1EqxjmNwUWDr2Su7ZGB5LAdlCfssSOWDw4OqY2lCJU37LHyD1AdZTORifHh6zD7fx1uINmhb6Wle_YgYOwbVoFOI38fLhn9eOe5Bq3CxZj-i9TK2bx1vl1jPgSKfP2S3mt49zxVCAjgwRco-Tpf1_P1PgJ2dOFPEKj2xw3BDhGG0rBJ1sOMJooy8_GbVYwPmjFAii7mrMVbAgarUEgJZCX_7__9E0Q3WXMiKROPOayoZktXoGsz06ixllxmuwgk-L1gRyXC_BH0TypVONaXSxOKFSUeiqkAlU7KN23VHKJ4dCX65y921FoxEnboLWXjPiz4-8MwWgZTfv-a_mD8yTBQT6lKVhDxtvGIbHFlrg5',
+  'results': [
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.477356,
+          'lng': 107.5803874
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47872347989273,
+            'lng': 107.5817568298927
+          },
+          'southwest': {
+            'lat': 16.47602382010728,
+            'lng': 107.5790571701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Đồng Lạc',
+      'place_id': 'ChIJe3PkWSmhQTERPZC4EKmyl3E',
+      'plus_code': {
+        'compound_code': 'FHGJ+W4 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHGJ+W4'
+      },
+      'rating': 0,
+      'reference': 'ChIJe3PkWSmhQTERPZC4EKmyl3E',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 0,
+      'vicinity': '83 Lê Thánh Tôn, Thuận Thành'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4811542,
+          'lng': 107.5755438
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.48246752989272,
+            'lng': 107.5768432798927
+          },
+          'southwest': {
+            'lat': 16.47976787010728,
+            'lng': 107.5741436201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Lạc Thạnh',
+      'place_id': 'ChIJp15DbjChQTERD36ML3gs3ok',
+      'plus_code': {
+        'compound_code': 'FHJG+F6 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHJG+F6'
+      },
+      'rating': 0,
+      'reference': 'ChIJp15DbjChQTERD36ML3gs3ok',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 0,
+      'vicinity': '6A Đinh Tiên Hoàng, Thuận Thành'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4735676,
+          'lng': 107.5829258
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47494387989272,
+            'lng': 107.5842549798927
+          },
+          'southwest': {
+            'lat': 16.47224422010728,
+            'lng': 107.5815553201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Nâu - Cơm nhà trà hoa',
+      'opening_hours': {
+        'open_now': False
+      },
+      'photos': [
+        {
+          'height': 1364,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/111992667606260160901">Tân Nguyễn</a>'
+          ],
+          'photo_reference': 'AeJbb3eCb41bHOxu9c2tjfQHuWRAY26HBnqWqFfGWqxcSbo6oW8GAiGrlwvyntiA7UoVkrMiEym9U-F3YSeuth9GoGcGhFZg-KwbSZgUiilxmTeMKZGU4x2GutAFKgMRg8FkMGf40a_GOYo8OW1Er-FfGk9tSgZWUo6vtG58-KTDFWH4zr-B',
+          'width': 2048
+        }
+      ],
+      'place_id': 'ChIJWflKBmqhQTER2CioP56Fa3M',
+      'plus_code': {
+        'compound_code': 'FHFM+C5 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFM+C5'
+      },
+      'rating': 4.7,
+      'reference': 'ChIJWflKBmqhQTER2CioP56Fa3M',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 47,
+      'vicinity': '45 Hàn Thuyên, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4731901,
+          'lng': 107.5850295
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47453797989272,
+            'lng': 107.5863802798927
+          },
+          'southwest': {
+            'lat': 16.47183832010727,
+            'lng': 107.5836806201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà hàng Ba con cừu',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 2736,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/108221124704430026280">quoc bao doan</a>'
+          ],
+          'photo_reference': 'AeJbb3eE4_UfeZY5M_B2KBZ7SAEGEbOe8tX9eB9-L7PFnxZff1YtkB8i1x1qQ5SiB64uTNGjNskYB1Rzni_a7Fi25A_qqvGSQ0r8mc05ctdhLw-NmBYwOpFnLaMabRQlG1TqJvJhdMe9TJ7YNoI2rsLb56CZ3G3zhApeq5MJaf63ABuZFGIs',
+          'width': 3648
+        }
+      ],
+      'place_id': 'ChIJSQ7gQmyhQTERiEQ1EATjodU',
+      'plus_code': {
+        'compound_code': 'FHFP+72 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFP+72'
+      },
+      'rating': 4.6,
+      'reference': 'ChIJSQ7gQmyhQTERiEQ1EATjodU',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 16,
+      'vicinity': '10 kiet 28 Lê Thánh Tôn, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4686362,
+          'lng': 107.5851898
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.46996052989272,
+            'lng': 107.5865036298927
+          },
+          'southwest': {
+            'lat': 16.46726087010728,
+            'lng': 107.5838039701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Lạc Thạnh',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/113483492366965499148">Jesper Wermuth</a>'
+          ],
+          'photo_reference': 'AeJbb3cKT9_pqsizNMESZhoBR9CMFFHIL5cAGlYcd_vjJs485f3xEGk5hDHhfUKYao26G745RCKMRRohwcsepjz6u3eLbAPlJ1nXx7noj22Z5zyQ3tubyFlKw1XmUHup_RfId2cGuo3aHGuSEX5VEQmzpTFXGxuSqrJlWEvKcCfBM0DQ-P3l',
+          'width': 4032
+        }
+      ],
+      'place_id': 'ChIJwQBRmCuhQTERoMjtnKortmE',
+      'plus_code': {
+        'compound_code': 'FH9P+F3 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FH9P+F3'
+      },
+      'rating': 4.1,
+      'reference': 'ChIJwQBRmCuhQTERoMjtnKortmE',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 55,
+      'vicinity': '6A Đinh Tiên Hoàng, Phú Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4689129,
+          'lng': 107.5852357
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47018272989272,
+            'lng': 107.5864691298927
+          },
+          'southwest': {
+            'lat': 16.46748307010727,
+            'lng': 107.5837694701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Hang Na Restaurant',
+      'photos': [
+        {
+          'height': 2988,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/104570230829570489482">Martin Sherwood</a>'
+          ],
+          'photo_reference': 'AeJbb3eHDxdmza1rbE-ybV5LqniDr2ZlTwaDNjLZtF7WOWW_AmefbzYrZepMLUdaK62MS5MzbY9OYPanLkNGIMm9qcEKIeZOn0RBCGAW_7_cXxskYpaiLJx42VcQlId8YFOwOpIh_-Ryn2Qi3F8dLuqIsTqR_9ckSGnegc1ZOaA9VcCkoxG6',
+          'width': 5312
+        }
+      ],
+      'place_id': 'ChIJNeeFbTChQTERjMJ5GKGPA5I',
+      'plus_code': {
+        'compound_code': 'FH9P+H3 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FH9P+H3'
+      },
+      'rating': 4.1,
+      'reference': 'ChIJNeeFbTChQTERjMJ5GKGPA5I',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 8,
+      'vicinity': '8 Đinh Tiên Hoàng, Phú Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4762382,
+          'lng': 107.5787776
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47754292989272,
+            'lng': 107.5801602298927
+          },
+          'southwest': {
+            'lat': 16.47484327010728,
+            'lng': 107.5774605701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Hương Biển',
+      'place_id': 'ChIJi35uDCyhQTERMwz1FoYOGrE',
+      'plus_code': {
+        'compound_code': 'FHGH+FG Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHGH+FG'
+      },
+      'rating': 0,
+      'reference': 'ChIJi35uDCyhQTERMwz1FoYOGrE',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 0,
+      'vicinity': '117 Nhật Lệ, Thuận Thành'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4737109,
+          'lng': 107.5802506
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47502482989272,
+            'lng': 107.5816282298927
+          },
+          'southwest': {
+            'lat': 16.47232517010728,
+            'lng': 107.5789285701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Bà Đào',
+      'photos': [
+        {
+          'height': 3024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/107463807726823515537">Sơn Nguyễn Trường</a>'
+          ],
+          'photo_reference': 'AeJbb3cCuTU_zLmbvLGBANFK7plak9Vpz-20Q64qtgvhMrWmKzwgpaGbO4DZ1K0meuGocV0lNkgi2SBs6TR0QS8KQRsuneKmu5JHEp9DkkHE0wKkaelMzfWNRghXbLFlOStD_ELz0qwahd0rBTPJNFuXGJY9B-6cDc00w6s8-Ex0--j23e9h',
+          'width': 4032
+        }
+      ],
+      'place_id': 'ChIJAx2Vfi6hQTERahu08A8vy-w',
+      'plus_code': {
+        'compound_code': 'FHFJ+F4 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFJ+F4'
+      },
+      'rating': 3.9,
+      'reference': 'ChIJAx2Vfi6hQTERahu08A8vy-w',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 40,
+      'vicinity': '53 Đặng Dung, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4737739,
+          'lng': 107.5818124
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47520087989272,
+            'lng': 107.5831025298927
+          },
+          'southwest': {
+            'lat': 16.47250122010728,
+            'lng': 107.5804028701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Hải Sản 66',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3000,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/110101858001038376729">Hoang Dang</a>'
+          ],
+          'photo_reference': 'AeJbb3d5UIqMuan5KGlznJMJwX072f75eO8HRtRe7sPm7XTd2b6qn9ZYsvn5IgZ_0ylwJdRvazLdvZRRsLhrwMZ11xkblXfEjcWSkLruMwjJ1vSlS17rX0J_c7fjZVBk_7QEP7NzvXCD1kSZsLlDHnYMn0aDAJv4CsXS3dqTgTkqJqaKIXRP',
+          'width': 4000
+        }
+      ],
+      'place_id': 'ChIJN2z5Vs-hQTER211xJDCu44I',
+      'plus_code': {
+        'compound_code': 'FHFJ+GP Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFJ+GP'
+      },
+      'rating': 4.1,
+      'reference': 'ChIJN2z5Vs-hQTER211xJDCu44I',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 38,
+      'vicinity': '69 Nguyễn Chí Diểu, Phú Ba'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4806364,
+          'lng': 107.5898944
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.48198172989272,
+            'lng': 107.5912935798927
+          },
+          'southwest': {
+            'lat': 16.47928207010727,
+            'lng': 107.5885939201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà hàng Cung Hỷ',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3456,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/111650737171387091920">A Google User</a>'
+          ],
+          'photo_reference': 'AeJbb3cG5m7yXOVdXbGhDb8hjwLQlYv4X9TluzHppNNhYiPdiwnxnrMm4ACmgRj8fB8SYnCTdsrZSh1PYCGehhvZULKOx09RAuPk13HbLUGTE16FQAdM4flArbObBuGSQ5ViLCquYsVP43iRoAnA5BmkKZeg9B80TsbDg8AqJnGiqA1-ysfn',
+          'width': 4608
+        }
+      ],
+      'place_id': 'ChIJTQTtZSehQTER1Vn6hKO0kwM',
+      'plus_code': {
+        'compound_code': 'FHJQ+7X Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHJQ+7X'
+      },
+      'rating': 4.2,
+      'reference': 'ChIJTQTtZSehQTER1Vn6hKO0kwM',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 48,
+      'vicinity': '211 Đ. Chi Lăng, Phú Cát'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4685382,
+          'lng': 107.5728488
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.46997797989272,
+            'lng': 107.5743090798927
+          },
+          'southwest': {
+            'lat': 16.46727832010728,
+            'lng': 107.5716094201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà hàng 369',
+      'place_id': 'ChIJJ2Vc3symQTERTEfzxTIy3dw',
+      'rating': 0,
+      'reference': 'ChIJJ2Vc3symQTERTEfzxTIy3dw',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 0,
+      'vicinity': 'FH9F+C49, Nguyễn Trãi, Thuận Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4724885,
+          'lng': 107.5822582
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47381167989272,
+            'lng': 107.5835706798927
+          },
+          'southwest': {
+            'lat': 16.47111202010727,
+            'lng': 107.5808710201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Lưu Thiếu Hương',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 570,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/113738479398010141783">Thúy Trinh Hồ</a>'
+          ],
+          'photo_reference': 'AeJbb3dkxXhAp1yNDlKnAcfuj4t5kAfVlXAHQGFZz-wB63Y3CM0UeVzwLzZVledrGch-2THSsCM8OsZ-fZbaKqPzqtEQI59BSoYM1hTDvpU3vRkfQWeIdhGjyPKFPT3Ro2rbNKV14DfWzMIKHWOAQOcrIQbwF2WEJjNttZ8OJR4hU2QOWpWF',
+          'width': 570
+        }
+      ],
+      'place_id': 'ChIJN642Ri6hQTERrs0FSCj-TMU',
+      'plus_code': {
+        'compound_code': 'FHCJ+XW Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHCJ+XW'
+      },
+      'rating': 4.5,
+      'reference': 'ChIJN642Ri6hQTERrs0FSCj-TMU',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 2,
+      'vicinity': '50 Đinh Tiên Hoàng, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4791357,
+          'lng': 107.579095
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.48046782989272,
+            'lng': 107.5804191798927
+          },
+          'southwest': {
+            'lat': 16.47776817010728,
+            'lng': 107.5777195201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Vườn Xanh',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 570,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/115055948634282381231">Trương Thị Lâm Nhi</a>'
+          ],
+          'photo_reference': 'AeJbb3fWWkpU02yjm96zJU5SIiIyYtqlRQQFDmbbaTFhMsFKk1zlLcj-Skcgo999LJywnZhkzNGvHR_ILdginL_zZ0QARkG7TMiWirXgKATLmBqPaJQyJs11oXKSmaF3OlwTE8iyHUzFlwzqpZQNbSEU8q8P94CBKJSoyJi_HZfAby-3f-33',
+          'width': 570
+        }
+      ],
+      'place_id': 'ChIJc0jqziuhQTEROkwqyzBSn84',
+      'plus_code': {
+        'compound_code': 'FHHH+MJ Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHHH+MJ'
+      },
+      'rating': 4.4,
+      'reference': 'ChIJc0jqziuhQTEROkwqyzBSn84',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 7,
+      'vicinity': '147, Lê Thánh Tôn, TP Huế, Tỉnh Thừa Thiên Huế'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4690098,
+          'lng': 107.5849109
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47033207989272,
+            'lng': 107.5862218798927
+          },
+          'southwest': {
+            'lat': 16.46763242010728,
+            'lng': 107.5835222201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Comida Buena',
+      'photos': [
+        {
+          'height': 570,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/107463803574738227516">Đào Thanh An</a>'
+          ],
+          'photo_reference': 'AeJbb3fE85aottaQuelkGm-7vXkLJNPEtwBNGd8ajOYQS49TurvEdsgk_ei7M93ICILptJzMVlkA8g43VU9cj1yjXLEnwC1-JHPeafG8b6lUtA2bAuGmUNqi7ocNunPhs4L2m0EInglCQYPBcJ0UIKReQ_Ugi7x2qgGI1p6DgYI8_wUKPDqx',
+          'width': 570
+        }
+      ],
+      'place_id': 'ChIJxT2bJFqhQTERZx3aGRanofQ',
+      'plus_code': {
+        'compound_code': 'FH9M+JX Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FH9M+JX'
+      },
+      'rating': 4,
+      'reference': 'ChIJxT2bJFqhQTERZx3aGRanofQ',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 1,
+      'vicinity': '2-36 Đinh Tiên Hoàng, Phú Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4689399,
+          'lng': 107.5849524
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47026502989272,
+            'lng': 107.5862673298927
+          },
+          'southwest': {
+            'lat': 16.46756537010728,
+            'lng': 107.5835676701073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Com Niue Gia Dinh 3 Mien',
+      'photos': [
+        {
+          'height': 4032,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/115939244852104984736">Oscar Alcazar</a>'
+          ],
+          'photo_reference': 'AeJbb3dMrLLyciGCyvzMPZArLEbNc-t5371UlUNyEAAg-lxONBGv_dZuH1DRVcFVsWgcuY5a_DQEfg3p0hpcNYa6X8lsPYBR2_pXj2D2OI-uWKqAvxCRnMiNEChvuNCHXytKNFSkXpVowufNEQCxCwrfCgJ3WtXMRnyjQOTg8Arr9wyl38g',
+          'width': 3024
+        }
+      ],
+      'place_id': 'ChIJ_fs_X1OhQTERu6WAU-skusk',
+      'plus_code': {
+        'compound_code': 'FH9M+HX Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FH9M+HX'
+      },
+      'rating': 2,
+      'reference': 'ChIJ_fs_X1OhQTERu6WAU-skusk',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 1,
+      'vicinity': '18 Đinh Tiên Hoàng, Phú Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4731624,
+          'lng': 107.5847754
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47449912989272,
+            'lng': 107.5861392798927
+          },
+          'southwest': {
+            'lat': 16.47179947010728,
+            'lng': 107.5834396201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Tinh Gia Vien Restaurant',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 1936,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/113028561304283781917">Nguyen An</a>'
+          ],
+          'photo_reference': 'AeJbb3dW5et8hTzUm_S366oDN0x-9w8cdJryyXVJrgQ64afHnMnsFNA6XVsVtN1839PG6a-SA76aem-sJV9Gix6QR7DXu51UylwXm8yrAMwusy_X6ukUGC6sFlgTVLHLGdC6nMmjE8pEJnz8soUfJctl_08m5hS7nU7rvh0bTewI5eQFW1iL',
+          'width': 2592
+        }
+      ],
+      'place_id': 'ChIJMdZTq8mmQTERlVXXpkDfWaM',
+      'plus_code': {
+        'compound_code': 'FHFM+7V Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFM+7V'
+      },
+      'rating': 4,
+      'reference': 'ChIJMdZTq8mmQTERlVXXpkDfWaM',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 121,
+      'vicinity': '7 kiet 28 Lê Thánh Tôn, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4801451,
+          'lng': 107.5838204
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.48147227989272,
+            'lng': 107.5851865798927
+          },
+          'southwest': {
+            'lat': 16.47877262010728,
+            'lng': 107.5824869201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Quán Ăn 888',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3096,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/112935668741377378379">hung le</a>'
+          ],
+          'photo_reference': 'AeJbb3f5eJoOyzG9iO1C69aWjQrQs1jlER7nv7dfdWR9mhQcgn9slczBDBntcUbscnMTYGW513FMpB9YWVWS0Oo43vgwE3dR0vKtu_lHk2W9E7O62b4peAufX5tHsTbBa9hwHTq-XAfscArAnHwnMmcwyPSR0mNGAKOY2Zn-bHWRFX8HEKAN',
+          'width': 4128
+        }
+      ],
+      'place_id': 'ChIJhe4LRiihQTERQ4UDTpMmAW0',
+      'plus_code': {
+        'compound_code': 'FHJM+3G Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHJM+3G'
+      },
+      'price_level': 2,
+      'rating': 3.7,
+      'reference': 'ChIJhe4LRiihQTERQ4UDTpMmAW0',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 72,
+      'vicinity': '271 Huỳnh Thúc Kháng, Phú Bình'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4745226,
+          'lng': 107.5807027
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47583562989272,
+            'lng': 107.5819973798927
+          },
+          'southwest': {
+            'lat': 16.47313597010728,
+            'lng': 107.5792977201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Cháo bò',
+      'place_id': 'ChIJnQjTfM6hQTERT3UaACk4uMs',
+      'plus_code': {
+        'compound_code': 'FHFJ+R7 Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFJ+R7'
+      },
+      'rating': 0,
+      'reference': 'ChIJnQjTfM6hQTERT3UaACk4uMs',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 0,
+      'vicinity': '108 Đinh Tiên Hoàng, Phú Hậu'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4688529,
+          'lng': 107.5844195
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47013837989272,
+            'lng': 107.5858124798927
+          },
+          'southwest': {
+            'lat': 16.46743872010728,
+            'lng': 107.5831128201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Quán Kim Oanh',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 570,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/106707623910139929642">Đỗ Kiều Anh</a>'
+          ],
+          'photo_reference': 'AeJbb3faCuGv8Hg-_EIT6ZYVcCl4MV3g5FI2e8p9YceKGs56KNkROsi98jKPzvf2PtJ2DC1LeudEkV6ATYqENJovJBInvW9ups7vRdZ99MKqEoRZT1M_5zkicvLkBGzcnt3y37bO3IxLATNn96j2VL71mnkd1Nc5qPMumrrILm09W3Xw1iiR',
+          'width': 570
+        }
+      ],
+      'place_id': 'ChIJye2JQTChQTER7UIxA6ark6w',
+      'plus_code': {
+        'compound_code': 'FH9M+GQ Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FH9M+GQ'
+      },
+      'rating': 4,
+      'reference': 'ChIJye2JQTChQTER7UIxA6ark6w',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 1,
+      'vicinity': '70 Trần Huy Liệu, Phú Hoà'
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'geometry': {
+        'location': {
+          'lat': 16.4741036,
+          'lng': 107.5820956
+        },
+        'viewport': {
+          'northeast': {
+            'lat': 16.47548612989272,
+            'lng': 107.5834200798927
+          },
+          'southwest': {
+            'lat': 16.47278647010728,
+            'lng': 107.5807204201073
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png',
+      'icon_background_color': '#FF9E67',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet',
+      'name': 'Nhà Hàng Cơm Tấm Sài Gòn - Thành Na',
+      'photos': [
+        {
+          'height': 3024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/106938703218181938303">A Google User</a>'
+          ],
+          'photo_reference': 'AeJbb3fD0Bl5xVK1uxYc3pW-iqIt3bk5KmdIzDDI68sx0xy_sinUEgquGHn4bCMYgKrw6ooDEZ-coxzTlVYz7W4c6HDPHEzCLwx0l42mP_YBATU2RlMKcl-uojX4X_sO7CjleIWZ7-n4Sehb9fkJC9h9RU-ZEUEDIbafhtE3RK3Gdi0uiU9v',
+          'width': 4032
+        }
+      ],
+      'place_id': 'ChIJZ7ECxiKhQTERwKFLeKlC0ms',
+      'plus_code': {
+        'compound_code': 'FHFJ+JR Thành phố Huế, Thừa Thiên Huế',
+        'global_code': '7P89FHFJ+JR'
+      },
+      'price_level': 2,
+      'rating': 4,
+      'reference': 'ChIJZ7ECxiKhQTERwKFLeKlC0ms',
+      'scope': 'GOOGLE',
+      'types': [
+        'restaurant',
+        'point_of_interest',
+        'food',
+        'establishment'
+      ],
+      'user_ratings_total': 224,
+      'vicinity': '53 Nguyễn Chí Diểu, Phú Hậu'
+    }
+  ],
+  'status': 'OK'
+}

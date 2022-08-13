@@ -1,0 +1,52 @@
+{
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": 16.4801451,
+      "lng": 107.5838204
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 16.48147227989272,
+        "lng": 107.5851865798927
+      },
+      "southwest": {
+        "lat": 16.47877262010728,
+        "lng": 107.5824869201073
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Quán Ăn 888",
+  "opening_hours": {
+    "open_now": "True"
+  },
+  "photos": [
+    {
+      "height": 3096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112935668741377378379\">hung le</a>"
+      ],
+      "photo_reference": "AeJbb3f5eJoOyzG9iO1C69aWjQrQs1jlER7nv7dfdWR9mhQcgn9slczBDBntcUbscnMTYGW513FMpB9YWVWS0Oo43vgwE3dR0vKtu_lHk2W9E7O62b4peAufX5tHsTbBa9hwHTq-XAfscArAnHwnMmcwyPSR0mNGAKOY2Zn-bHWRFX8HEKAN",
+      "width": 4128
+    }
+  ],
+  "place_id": "ChIJhe4LRiihQTERQ4UDTpMmAW0",
+  "plus_code": {
+    "compound_code": "FHJM+3G Thành phố Huế, Thừa Thiên Huế",
+    "global_code": "7P89FHJM+3G"
+  },
+  "price_level": 2,
+  "rating": 3.7,
+  "reference": "ChIJhe4LRiihQTERQ4UDTpMmAW0",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "user_ratings_total": 72,
+  "vicinity": '271 Huỳnh Thúc Kháng, Phú Bình'}
